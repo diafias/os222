@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 OS222W01
-=======
-OSW22201
->>>>>>> a92a039 (os222 diafias update mylog.txt)
