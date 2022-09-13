@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 1. [What is a Virtual Machine?] (https://blog.stackpath.com/virtual-machine/)<br>
 This article is a good introduction about virtualization and virtual machine, since those topics are essential for this course. If you don't know about them and want to learn about them, this article is good start for you.
 
