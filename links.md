@@ -30,3 +30,10 @@ Linux is the best known and most used open source operating system. As an operat
 
 3. [What did The Old Operating Systems Look Like?](https://medium.com/codex/what-did-the-old-operating-systems-look-like-68300cb9ad08)<br>
 When operating systems began to use a graphical interface, computing became more democratic and took a giant leap forward. This article will explain some of the most iconic operating systems along with their interfaces. 
+
+WEEK 03
+1. [What is cyberscurity?](https://www.ibm.com/topics/cybersecurity)<br>
+
+2. [Why is Cybersecurity Important?](https://www.visma.com/cyber-security/why-is-cyber-security-important/)<br>
+
+3. [How To Learn Cybersecurity on Your Own](https://www.springboard.com/blog/cybersecurity/how-to-learn-cybersecurity/)<br>
