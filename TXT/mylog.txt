@@ -29,3 +29,14 @@ ZCZC W02 10 L15 Assignment #05
 ZCZC W02 10 L16 Assignment #06
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 15 L05 Quiz related including studying
+ZCZC W03 15 L01 SCELE/Discord related
+ZCZC W03 200 L02 ZOOM meetings related
+ZCZC W03 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 20 L05 Quiz related including studying
+ZCZC W03 60 L09 Assignment in General
+ZCZC W03 30 L40 TXT/ related in general
+ZCZC W03 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 20 L21 Trying Something
+ZCZC W03 30 L81 Listening: Radio, Music, etc.
+ZCZC W03 30 L84 Relax, Rest, Nap, and Sleep
+
