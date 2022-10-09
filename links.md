@@ -50,6 +50,5 @@ WEEK 05
 
 2. [12 Reasons Why You Should Choose Debian Linux](https://www.makeuseop.com/tag/reasons-choose-debian-linux/)<br>
 
-3. [Virtual Machines: A Closer Look at Pros and Cons](https://cynexlink.com/latest-articles/virtual-machines-pros-cons/<br>
-
+3. [Virtual Machines: A Closer Look at Pros and Cons](https://cynexlink.com/latest-articles/virtual-machines-pros-cons/)<br>
 
