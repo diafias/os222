@@ -49,6 +49,18 @@ ZCZC W04 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 30 L40 TXT/ related in general.
 ZCZC W04 15 L24 Scripting in general.
 ZCZC W04 30 L81 Listening: Radio, Music, etc.
+ZCZC W05 20 L01 SCELE/Discord related.
+ZCZC W05 200 L02 ZOOM metings related.
+ZCZC W05 15 L03 GitHub and git related, including commit, push, pull.
+ZCZC W05 30 L05 Quiz related including studying.
+ZCZC W05 30 L06 References/Boks?Documents/Browsing/GSGS related.
+ZCZC W05 15 L07 Demo related.
+ZCZC W05 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Asdos, Friend, etc. 
+ZCZC W05 60 L09 Assignment is General.
+ZCZC W05 10 L24 Scripting in general.
+ZCZC W05 15 L41 TXT/ related in general.
+ZCZC W05 15 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W05 30 L81 Listening: Radio, Music, etc.
 
 
 

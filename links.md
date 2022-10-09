@@ -43,4 +43,13 @@ WEEK 04
 
 2. [11 Reasons Why Linux Is Better Than Windows](https://itsfoss.com/linux-better-than-windows/)<br>
 
-3. [Microsoft Launched Windows 11. Now What? Essential Info About The New OS](https://www.cent.com/tech/computing/microsoft-launched-windows-11-now-what-essential-info-about-new-os/)<br>
+3. [Microsoft Launched Windows 12. Now What? Essential Info About The New OS](https://www.cent.com/tech/computing/microsoft-launched-windows-11-now-what-essential-info-about-new-os/)<br>
+
+WEEK 05
+1. [What Is A Virtual Machine?](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br>
+
+2. [12 Reasons Why You Should Choose Debian Linux](https://www.makeuseop.com/tag/reasons-choose-debian-linux/)<br>
+
+3. [Virtual Machines: A Closer Look at Pros and Cons](https://cynexlink.com/latest-articles/virtual-machines-pros-cons/<br>
+
+
