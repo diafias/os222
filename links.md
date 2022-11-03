@@ -52,3 +52,9 @@ WEEK 05
 
 3. [Virtual Machines: A Closer Look at Pros and Cons](https://cynexlink.com/latest-articles/virtual-machines-pros-cons/)<br>
 
+WEEK 06
+1. [Oerating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+
+2. [What's The Diff: Programs, Processes, and Threads](https://www.backblaze.com/blog/whtas-the-diff-programs-processes-and-threads/)<br>
+
+3. [Threads in Operating System](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)<br>
