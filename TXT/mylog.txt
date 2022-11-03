@@ -61,6 +61,18 @@ ZCZC W05 10 L24 Scripting in general.
 ZCZC W05 15 L41 TXT/ related in general.
 ZCZC W05 15 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W05 30 L81 Listening: Radio, Music, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 20 L07 Demo related
+ZCZC W06 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W06 60 L09 Assignment in General
+ZCZC W06 30 L21 Trying something
+ZCZC W06 10 L24 Scripting in general
+ZCZC W06 30 L41 TXT/ related in general
+
 
 
 
