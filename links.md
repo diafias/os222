@@ -58,3 +58,10 @@ WEEK 06
 2. [What's The Diff: Programs, Processes, and Threads](https://www.backblaze.com/blog/whtas-the-diff-programs-processes-and-threads/)<br>
 
 3. [Threads in Operating System](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)<br>
+
+WEEK 07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+
+3. [Deadlock Detection and Recovery in Operating System](https://byjus.com/gate/deadlock-detection-and-recovery-in-operating-system-notes/)<br>
