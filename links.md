@@ -65,3 +65,11 @@ WEEK 07
 2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 
 3. [Deadlock Detection and Recovery in Operating System](https://byjus.com/gate/deadlock-detection-and-recovery-in-operating-system-notes/)<br>
+
+WEEK 08
+1. [Learning with Linux From Scratch](https://lwn.net/Articles/85865/)<br>
+
+2. [Why should we learn Linux from scratch?](https://www.youtube.com/watch?v=e6pTM0sOJl4)<br>
+
+3. [My thoughts and experiences with Linux From Scratch](https://dev.to/donaldsebleung/my-thoughts-and-experiences-with-linux-from-scratch-3ikm)<br>
+
