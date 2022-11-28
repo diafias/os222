@@ -73,3 +73,10 @@ WEEK 08
 
 3. [My thoughts and experiences with Linux From Scratch](https://dev.to/donaldsebleung/my-thoughts-and-experiences-with-linux-from-scratch-3ikm)<br>
 
+WEEK 09
+1. [RAID (Redundant Arrays of Independent Disks)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+
+2. [Systemd-Boot](https://wiki.archlinux.org/title/systemd-boot)<br>
+
+3. [Explaining UEFI Firmware for Linux Users](https://www.linuxbabe.com/desktop-linux/legacy-bios-vs-uefi-bios)<br>
+
